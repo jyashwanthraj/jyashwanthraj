@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashwanth</h1>
-<h3 align="center">I'm a Data science graduate student who loves to work with data✨ with modern technologies.Currently learning Data science🔭 while also solidifying my already acquired knowledge of Data science🔭</h3>
+<h3 align="center">I'm a Data science graduate student who loves to work with data✨ with modern technologies. Currently learning ML 🔭 while also solidifying my already acquired knowledge of Data science🔭</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
