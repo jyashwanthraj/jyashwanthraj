@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jyashwanthraj.github.io/portfolio/projects.html](https://jyashwanthraj.github.io/portfolio/projects.html)
 
-- 📝 I regularly write articles on [machine learning](machine learning)
+- 📝 I regularly write articles on [machine learning]
 
 - 💬 Ask me about **Data Science**
 
