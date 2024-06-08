@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋 i am Yash 
 
-<h4 I'm a Data science graduate student who loves to work with data✨ with modern technologies.Currently learning Data science🔭 while also solidifying my already acquired knowledge of Data science🔭>
+<h4 I'm a Data science graduate student who loves to work with data✨ with modern technologies.Currently learning Data science🔭 while also solidifying my already acquired knowledge of Data science🔭
 
 ###
 
